@@ -67,5 +67,5 @@ Overall, random forest is a versatile and powerful machine learning algorithm th
 * Download and unzip the code zip file from the github repository: https://github.com/kris0107/BISI-CST2101-W23-Project
 * Download and open Anaconda Navigator (Anaconda3) on your system.
 * Launch jupyter notebook from the navigator main screen.
-* Navigate to the unzipped folder location and open krishan_041090023.ipynb file. (ensure diabetes.csv file is in the same unzipped folder)
+* Navigate to the unzipped folder location and open Krishan_041090023.ipynb file. (ensure diabetes.csv file is in the same unzipped folder)
 * Run all cells using shift+enter or run all to find the desired outputs.
