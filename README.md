@@ -30,7 +30,7 @@ Below is the attribute information:
 
 #### Libraries
 
-pandas, seaborn, matplotlib, sklearn.
+pandas, numpy, seaborn, matplotlib, sklearn.
 
 ## Models
 
